@@ -4,6 +4,6 @@ According to the World Health Organization (WHO) stroke is the 2nd leading cause
 Here i have used EDA i.e, Exploratory Data Analysis which is method of examining dataset from which we can learn charecteristics of data
 
 i have also used dataprep.eda package which makes data analysis very easy using simple api.
-using this library we can achieve detailed report of every categorical value.
+using this library we can create detailed report of every categorical value.
 
-finally i have tested different machine learning algorithms to achieve good accuracy i prediction.
+finally i have tested different machine learning algorithms to achieve good accuracy.
