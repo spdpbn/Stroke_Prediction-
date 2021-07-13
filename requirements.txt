@@ -41,7 +41,7 @@ requests == 2.25.1
 # Stroke_Prediction--main/.ipynb_checkpoints/stroke_prediction_advanced_EDA(2)-checkpoint.ipynb: 104,105,110
 # Stroke_Prediction--main/app.py: 6,7
 # Stroke_Prediction--main/stroke_prediction_advanced_EDA(2).ipynb: 110,114,141
-scikit_learn == 0.22.1
+scikit-learn==0.23.1
 
 # Stroke_Prediction--main/.ipynb_checkpoints/stroke_prediction_advanced_EDA(2)-checkpoint.ipynb: 5
 # Stroke_Prediction--main/stroke_prediction_advanced_EDA(2).ipynb: 5
