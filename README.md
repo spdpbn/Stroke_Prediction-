@@ -6,6 +6,6 @@ I have used dataprep.eda package which makes data analysis very easy using simpl
 Using this library we can create detailed report of every categorical value.
 Given dataset is imbalanced dataset Used SMOTE algorithm to balance data.
 Created classification model using Random Forest Classification algorithm and achieved 90% accuracy .
-Successfully deployed model on Heroku using flask framework. check out this link -: https://strokepredictspd.herokuapp.com/predict
+Successfully deployed model on Heroku using flask framework. check out this link -: https://strokepredictspd.herokuapp.com
 
 Thanks
